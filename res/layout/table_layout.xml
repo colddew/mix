@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TableLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:shrinkColumns="0,1,2">
+    
+    <TableRow>
+        <Button
+        	android:id="@+id/table_btn1"
+        	android:layout_width="wrap_content"
+        	android:layout_height="wrap_content"
+        	android:text="@string/btn1"
+        	android:layout_column="0"
+        	style="@style/btn_style"/>
+        <Button
+        	android:id="@+id/table_btn2"
+        	android:layout_width="wrap_content"
+        	android:layout_height="wrap_content"
+        	android:text="@string/btn2"
+        	android:layout_column="1"
+        	style="@style/btn_style"/>
+    </TableRow>
+    <TableRow >
+        <Button
+        	android:id="@+id/table_btn3"
+        	android:layout_width="wrap_content"
+        	android:layout_height="wrap_content"
+        	android:text="@string/btn3"
+        	android:layout_column="1"
+        	style="@style/btn_style"/>
+        <Button
+        	android:id="@+id/table_btn4"
+        	android:layout_width="wrap_content"
+        	android:layout_height="wrap_content"
+        	android:text="@string/btn4"
+        	android:layout_column="1"
+        	style="@style/btn_style"/>
+    </TableRow>
+  	<TableRow >
+        <Button
+        	android:id="@+id/table_btn5"
+        	android:layout_width="wrap_content"
+        	android:layout_height="wrap_content"
+        	android:text="@string/btn5"
+        	android:layout_column="2"
+        	style="@style/btn_style"/>
+    </TableRow>
+</TableLayout>

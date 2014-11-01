@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <string name="app_name">mix</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="long_hello_world">Hello world, Hello world, Hello world, Hello world, Hello world, Hello world, Hello world, Hello world, Hello world, Hello world, Hello world, Hello world, Hello world!</string>
+    <string name="baidu">http://www.baidu.com</string>
+    <string name="image_wechat">wechat</string>
+    <string name="menu_about">关于..</string>
+	<string name="menu_quit">结束</string>
+	<string name="btn_event">按钮事件</string>
+	<string name="btn_change_style">按钮改变样式</string>
+	<string name="list_item_image">列表项图片</string>
+	<string name="linear_layout">线性布局</string>
+	<string name="relative_layout">相对布局</string>
+	<string name="frame_layout">帧布局</string>
+	<string name="table_layout">表格布局</string>
+	<string name="absolute_layout">绝对布局</string>
+	<string name="tab_layout">标签布局</string>
+	<string name="list_layout">列表布局</string>
+	<string name="grid_layout">网格布局</string>
+	<string name="please_input">请输入：</string>
+	<string name="please_input_words">请输入文字</string>
+	<string name="ok">确认</string>
+	<string name="cancel">取消</string>
+	<string name="btn1">hello, i am btn1 !</string>
+	<string name="btn2">hello, i am btn2 !</string>
+	<string name="btn3">hello, i am btn3 !</string>
+	<string name="btn4">hello, i am btn4 !</string>
+	<string name="btn5">hello, i am btn5 !</string>
+	<string name="tab1">标签页1</string>
+	<string name="tab2">标签页2</string>
+	<string name="tab3">标签页3</string>
+	<string name="list_image">列表图片</string>
+	<string name="start_service">启动服务</string>
+	<string name="stop_service">停止服务</string>
+	<string name="bind_service">绑定服务</string>
+	<string name="unbind_service">解绑服务</string>
+	<string name="start_handler">启动消息通信</string>
+	<string name="desc">详细说明</string>
+	<string name="select">选择列表项</string>
+	<string name="mix_alert_dialog">警告对话框</string>
+	<string name="mix_list_dialog">列表对话框</string>
+	<string name="mix_single_select_dialog">单选对话框</string>
+	<string name="mix_multi_select_dialog">多选对话框</string>
+	<string name="mix_progress_dialog">进度条对话框</string>
+	<string name="mix_custom_dialog">自定义对话框</string>
+	<string name="waiting">请等待....</string>
+	<string name="login">正在登陆....</string>
+	<string name="loading">加载中....</string>
+	<string name="net_test">网络测试</string>
+	<string name="running_notification">正在运行的通知</string>
+	<string name="common_notification">普通的通知</string>
+	<string name="custom_notification">自定义的通知</string>
+	
+</resources>
